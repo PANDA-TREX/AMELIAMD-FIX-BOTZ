@@ -62,15 +62,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'PutraModz', true]
+['94712954748', 'PutraModz', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727409'
-global.nomorown = '6283863727401'
-global.nomorown1 = '61483906014'
-global.nomorown2 = '6282214729677'//bisa nama pacarmu
-global.nomorown3 = '61483906014' //ganti 
+global.nomorbot = '94712954748'
+global.nomorown = '94712954748'
+global.nomorown1 = '94712954748'
+global.nomorown2 = '94712954748'//bisa nama pacarmu
+global.nomorown3 = '94712954748' //ganti 
 global.nomorwa = '0'//gakusah di ganti
 
 
